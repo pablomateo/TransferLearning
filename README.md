@@ -1,10 +1,10 @@
 # TransferLearning
 **Udacity - Artificial Intelligence Nanodegree Program**
-AI - Transfer Learning in Keras
+AI - Transfer Learning in Keras.
 
 # Transfer Learning in Keras
 
-This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. The following project can be run using a Local Machine or using an external GPU (Solution provided by **Amazon Web Services** is recommended). Next, you can follow Udacitys instructions to install the neccessary dependencies on a local machine or on AWS.
+This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. The following project can be run using a Local Machine or using an external GPU (Solution provided by **Amazon Web Services** is recommended). Next, you can follow Udacitys instructions to install the necessary dependencies on a local machine or on AWS.
 
 Follow the instructions to install the required environment and then you can check:
 
