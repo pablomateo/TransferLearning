@@ -1,6 +1,6 @@
 # TransferLearning
 **Udacity - Artificial Intelligence Nanodegree Program**
-AI - Transfer Learning in Keras
+AI - Transfer Learning in Keras.
 
 # Transfer Learning in Keras
 
